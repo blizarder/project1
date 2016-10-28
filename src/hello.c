@@ -1,2 +1,2 @@
 hello file
-New line 2nd console
+New line 2nd console -- adding this
